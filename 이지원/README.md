@@ -7,3 +7,4 @@
 | [2020/09/03](week01/0903-학습정리.md) | Acess Control, assert, Extension |
 | [2020/09/04](week01/0904-학습정리.md) | Protocol, Delegation |
 | [2020/09/07](week02/0907-학습정리.md) | 부스트코스 iOS 프로젝트 |
+| [2020/09/08](week02/0908-학습정리.md) | 부스트코스 iOS 프로젝트, UIImageView, UIImageViewController |
