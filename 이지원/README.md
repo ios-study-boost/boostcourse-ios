@@ -9,3 +9,4 @@
 | [2020/09/07](week02/0907-학습정리.md) | 부스트코스 iOS 프로젝트 |
 | [2020/09/08](week02/0908-학습정리.md) | 부스트코스 iOS 프로젝트, UIImageView, UIImageViewController |
 | [2020/09/09](week02/0909-학습정리.md) | 스탠포드 프로젝트, Colors.Assets |
+| [2020/09/10](week02/0910-학습정리.md) | Error Handling, try, do-catch |
