@@ -14,3 +14,4 @@
 | 3 | [2020/09/14](week03/0914-학습정리.md) | TableView, .self, static metatype, JSONDecoder |
 | 3 | [2020/09/15](week03/0915-학습정리.md) | 부스트코스 iOS 프로젝트, TableView |
 | 3 | [2020/09/16](week03/0916-학습정리.md) | Extension, Protocol |
+| 3 | [2020/09/17](week03/0917-학습정리.md) | Codable |
