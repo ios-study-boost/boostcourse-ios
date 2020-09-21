@@ -16,3 +16,4 @@
 | 3 | [2020/09/16](week03/0916-학습정리.md) | Extension, Protocol |
 | 3 | [2020/09/17](week03/0917-학습정리.md) | Codable |
 | 3 | [2020/09/18](week03/0918-학습정리.md) | AutoLayout |
+| 4 | [2020/09/21](week04/0921-학습정리.md) | @IBDesignable, @IBInspectable, AutoLayout |
