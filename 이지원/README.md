@@ -21,3 +21,4 @@
 | 4 | [2020/09/23](week04/0923-학습정리.md) | OperationQueue, UIScrollView, UICollectionView |
 | 4 | [2020/09/24](week04/0924-학습정리.md) | UICollectionView |
 | 4 | [2020/09/25](week04/0925-학습정리.md) | Photos |
+| 5 | [2020/09/28](week05/0928-학습정리.md) | Tab Bar, String, GCD, OperationQueue |
