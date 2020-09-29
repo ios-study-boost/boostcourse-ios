@@ -22,3 +22,4 @@
 | 4 | [2020/09/24](week04/0924-학습정리.md) | UICollectionView |
 | 4 | [2020/09/25](week04/0925-학습정리.md) | Photos |
 | 5 | [2020/09/28](week05/0928-학습정리.md) | Tab Bar, String, GCD, OperationQueue |
+| 5 | [2020/09/29](week05/0929-학습정리.md) | 부스트코스 iOS 프로젝트 |
